@@ -1,0 +1,8 @@
+C:\Users\mateusz.wernik\source\repos\TextFiltering\TextFiltering\bin\Debug\TextFiltering.exe.config
+C:\Users\mateusz.wernik\source\repos\TextFiltering\TextFiltering\bin\Debug\TextFiltering.exe
+C:\Users\mateusz.wernik\source\repos\TextFiltering\TextFiltering\bin\Debug\TextFiltering.pdb
+C:\Users\mateusz.wernik\source\repos\TextFiltering\TextFiltering\obj\Debug\TextFiltering.csproj.AssemblyReference.cache
+C:\Users\mateusz.wernik\source\repos\TextFiltering\TextFiltering\obj\Debug\TextFiltering.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateusz.wernik\source\repos\TextFiltering\TextFiltering\obj\Debug\TextFiltering.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.wernik\source\repos\TextFiltering\TextFiltering\obj\Debug\TextFiltering.exe
+C:\Users\mateusz.wernik\source\repos\TextFiltering\TextFiltering\obj\Debug\TextFiltering.pdb
